@@ -1,0 +1,28 @@
+nav a{
+	color: white;
+	text-decoration: none;
+}
+.navbar-brand{
+	color: white!important;
+}
+nav a:hover{
+	color:red;
+}
+.wrapper{
+
+}
+.footer{
+	background: grey;
+	text-align: center;
+}
+.layout{
+	padding-top: 20px;
+	padding-bottom: 20px; 
+}
+.carousel-item {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
